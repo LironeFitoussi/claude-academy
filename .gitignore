@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+After registering with Github, you should come to this page which is essentially the dashboard of Github. This is where we have all the projects and everything. Honestly, I can totally understand if you find this confusing right now. Don't worry, it will make sense in a second. Now in this section we're going to work on a project on an existing project which is actually quite common. You rarely start a project from the start of this project so that you can work on your own and practice all the concepts that I'm teaching in this course. Now to for this project, you first need to be logged in. So if you're not logged in, make sure that you log in and you should see here your icon on the right hand side. Now we're in a locked in state to create a full right? So now we have a copy of the code. This is where we typically start with a lot of projects. We need to get access to the code that we understand what use it to. This is how our code had to answer. We have terminal, so this is. Between the different technologies. The first step in getting these commands that we have just executed to run in Jenkins as well is to figure out if we have all the tools that we need. This NTM command is not available on any Linux environment like. I love this sequel. Data Grip allows you to write SQL you'll love. Enjoy powerful code completion. AI. Support for more than 50 databases. Data grip feel the difference with one tool for many databases now free for non commercial use. Welcome to my video on Everything You need to Know to get Started with Jenkins. This is going to be one of the most comprehensive guides for Jenkins on Youtube. It contains both theory and practical labs that you can follow along with. Jenkins is a hugely sought over skill to have for Devops, with engineers earning anywhere between 150,000 to $250,000 per year. Hopefully that's enough to motivate you to take the time to learn Jenkins, but if you need another reason, it's actually a really cool skill to have as it can be used to automate anything. In this video, we're going to go over what you need to know to get a Jenkins server up and running, set up and manage Jenkins agents, as well as create a declarative Jenkins pipeline using the Groovy language. As always, this video includes chapters and everything you see me do in this video is available on my Github in the description below, so make sure to make use of that as you follow along. So when getting started with Jenkins, there's plenty of documentation on the Jenkins website, but who wants to spend their day reading documentation off of a vendor website? That's why I'm going to give you the two long didn't read version. Jenkins is an automation platform that allows you to build, test and deploy software using pipelines. But it's not just limited to creating pipelines for code, it can be used to automate any task. I commonly use it to run my bash in Python scripts as well as Ansible playbooks. Jenkins provides a web GUI where you can create jobs and customize all the functionality that you want such as source control, management, pre and post build actions, as well as build trig. 

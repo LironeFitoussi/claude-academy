@@ -1,0 +1,25 @@
+{
+  "n_participants": 40,
+  "job_only_n": 26,
+  "housing_n": 14,
+  "overall_attendance_by_month_pct": {
+    "January": 60.4,
+    "February": 66.9,
+    "March": 77.5
+  },
+  "avg_attendance_job_only_pct": 73.5,
+  "avg_attendance_housing_pct": 58.5,
+  "employment_rate_job_only_pct": 69.2,
+  "employment_rate_housing_pct": 71.4,
+  "overall_correlation_attendance_employment": 0.21,
+  "correlation_job_only": 0.41,
+  "correlation_housing": 0.42,
+  "employment_rate_low_attendance_half_pct": 60.0,
+  "employment_rate_high_attendance_half_pct": 76.0,
+  "enrollment_month_counts": {
+    "January": 17,
+    "February": 17,
+    "March": 6
+  },
+  "pct_enrollment_date_only_in_notes": 65.0
+}

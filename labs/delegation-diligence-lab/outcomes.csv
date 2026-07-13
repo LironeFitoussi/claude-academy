@@ -1,0 +1,41 @@
+participant_id,name,program_type,employed_after_program,placement_date,enrollment_date,notes
+1,Michael J.,Job Training + Housing,N,,,Joined cohort in January. Housing voucher pending at intake.
+2,David L.,Job Training + Housing,N,,,"Enrolled in January, referred by county VA office."
+3,Barbara M.,Job Training + Housing,yes,2/18/2025,,Joined cohort in February. Housing voucher pending at intake.
+4,William N.,Job Training + Housing,Y,3/16/2025,2/5/2025,Prefers morning sessions.
+5,Elizabeth O.,Job Training + Housing,yes,2/8/2025,2/15/2025,
+6,Sandra A.,Job Training Only,Yes,3/17/2025,2/18/2025,Requested resume workshop.
+7,Maria G.,Job Training + Housing,No,,,Started program January 1. Prior military police background.
+8,Karen S.,Job Training Only,No,,,"Enrolled in January, referred by county VA office."
+9,Anthony Z.,Job Training Only,Y,3/1/2025,,"Intake completed February 27, veteran of 3 tours."
+10,Charles R.,Job Training Only,No,,1/2/2025,
+11,Nancy U.,Job Training Only,no,,1/22/2025,
+12,Michael F.,Job Training Only,Y,2/4/2025,,"Enrolled in January, referred by county VA office."
+13,Mark B.,Job Training + Housing,yes,2/8/2025,,Started program January 14. Prior military police background.
+14,Patricia G.,Job Training Only,Y,2/5/2025,2/19/2025,
+15,Daniel V.,Job Training Only,yes,2/5/2025,1/18/2025,
+16,Christopher T.,Job Training Only,Y,2/28/2025,,Began services January 3 after discharge orientation.
+17,David H.,Job Training Only,No,,,Started program March 6. Prior military police background.
+18,James F.,Job Training + Housing,Y,2/26/2025,1/21/2025,Requested resume workshop.
+19,Betty Y.,Job Training Only,No,,,Began services March 16 after discharge orientation.
+20,Lisa W.,Job Training Only,No,,,Started program February 8. Prior military police background.
+21,Joseph N.,Job Training Only,Yes,3/12/2025,,Started program February 20. Prior military police background.
+22,William J.,Job Training Only,Yes,3/16/2025,,Began services February 27 after discharge orientation.
+23,Paul D.,JOB TRAINING + HOUSING,Yes,3/19/2025,,"Intake completed February 20, veteran of 3 tours."
+24,Kimberly E.,Job Training + Housing,yes,3/21/2025,2/9/2025,Referred by peer support group.
+25,Thomas P.,Job Training Only,Yes,2/8/2025,,"Enrolled in January, referred by county VA office."
+26,Patricia K.,Job Training + Housing,Yes,3/8/2025,,Joined cohort in February. Housing voucher pending at intake.
+27,Robert H.,Job Training + Housing,yes,2/11/2025,1/22/2025,Referred by peer support group.
+28,Barbara I.,Job Training Only,Yes,3/21/2025,,Began services February 4 after discharge orientation.
+29,Jennifer M.,Job Training Only,Y,2/27/2025,,Joined cohort in January. Housing voucher pending at intake.
+30,Matthew X.,Job Training Only,Yes,3/5/2025,3/3/2025,Referred by peer support group.
+31,Ashley C.,Job Training + Housing,Y,2/15/2025,2/20/2025,Prefers morning sessions.
+32,Elizabeth K.,Job Training Only,yes,3/19/2025,,"Intake completed March 15, veteran of 3 tours."
+33,Linda E.,Job Training Only,N,,,"Enrolled in March, referred by county VA office."
+34,Maria C.,Job Training Only,Yes,1/3/2025,,"Enrolled in January, referred by county VA office."
+35,Jessica Q.,Job Training Only,no,,,"Intake completed January 28, veteran of 3 tours."
+36,Richard L.,Job Training Only,yes,3/5/2025,3/3/2025,Requested resume workshop.
+37,Robert D.,Job Training Only,Y,3/25/2025,,Began services February 13 after discharge orientation.
+38,Linda I.,Job Training + Housing,No,,,"Enrolled in February, referred by county VA office."
+39,James B.,Job Training Only,Y,2/26/2025,,Started program January 7. Prior military police background.
+40,Susan O.,Job Training Only,Yes,3/8/2025,2/17/2025,Requested resume workshop.
