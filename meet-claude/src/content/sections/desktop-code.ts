@@ -34,7 +34,7 @@ export const desktopCodeSlides: Slide[] = [
   {
     type: 'content',
     title: 'כמה שליטה נותנים ל-Claude: שלושה מצבי אינטראקציה',
-    html: `<p>נזכרים ב-Diligence מה-4D Framework – זהירות ובקרה אנושית? כאן זה הופך לבחירה קונקרטית:</p><ul><li><strong>Ask</strong> – Claude מציע כל שינוי, ומחכה לאישור. רואים דיף חזותי ומחליטים לפני שמשהו משתנה</li><li><strong>Code</strong> – Claude מבצע שינויי קבצים אוטומטית, אבל בודק לפני שהוא מריץ פקודות בטרמינל</li><li><strong>Plan</strong> – Claude מציג את הגישה המלאה שלו לפני שהוא נוגע בכל דבר, בצופה תוכנית ייעודי שאפשר לחזור אליו לאורך העבודה</li></ul>`,
+    html: `<p>זוכרים שדיברנו על -Diligence מה-4D Framework – זהירות ובקרה אנושית? כאן זה הופך לבחירה קונקרטית:</p><ul><li><strong>Ask</strong> – Claude מציע כל שינוי, ומחכה לאישור. רואים דיף חזותי ומחליטים לפני שמשהו משתנה</li><li><strong>Code</strong> – Claude מבצע שינויי קבצים אוטומטית, אבל בודק לפני שהוא מריץ פקודות בטרמינל</li><li><strong>Plan</strong> – Claude מציג את הגישה המלאה שלו לפני שהוא נוגע בכל דבר, בצופה תוכנית ייעודי שאפשר לחזור אליו לאורך העבודה</li></ul>`,
   },
 
   {
@@ -63,6 +63,41 @@ export const desktopCodeSlides: Slide[] = [
 <div style="font-size:0.55em;margin-top:0.4em;opacity:0.9;">בניית תוכנה: כתיבה, בדיקה, הרצה ופריסה של קוד</div>
 </div>
 </div>`,
+  },
+
+  {
+    type: 'content',
+    title: 'השוואה בין שלושת המצבים',
+    html: `<div style="overflow-x:auto;"><table dir="rtl" style="width:100%;border-collapse:collapse;font-size:13px;line-height:1.4;">
+<thead>
+<tr style="background:#efece4;">
+<th style="text-align:right;padding:8px 10px;border-bottom:2px solid rgba(0,0,0,0.15);"></th>
+<th style="text-align:right;padding:8px 10px;border-bottom:2px solid rgba(0,0,0,0.15);">Chat</th>
+<th style="text-align:right;padding:8px 10px;border-bottom:2px solid rgba(0,0,0,0.15);">Cowork</th>
+<th style="text-align:right;padding:8px 10px;border-bottom:2px solid rgba(0,0,0,0.15);">Code</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background:#faf9f6;">
+<td style="padding:8px 10px;font-weight:800;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">מותאם ל</td>
+<td style="padding:8px 10px;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">החלפות מהירות: רעיונות, טיוטות, תשובות, למידה בשיחה</td>
+<td style="padding:8px 10px;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">עבודה מורכבת וממושכת: מחקר, ניתוח, ארגון קבצים, תוצרים מוגמרים</td>
+<td style="padding:8px 10px;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">בניית תוכנה: כתיבה, בדיקה, הרצה ופריסה של קוד</td>
+</tr>
+<tr style="background:#fff;">
+<td style="padding:8px 10px;font-weight:800;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">תכונות עיקריות</td>
+<td style="padding:8px 10px;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">כניסה מהירה, הכתבה קולית</td>
+<td style="padding:8px 10px;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">עבודה מתיקיות מקומיות, plugins, subagents, משימות מתוזמנות</td>
+<td style="padding:8px 10px;vertical-align:top;border-bottom:1px solid rgba(0,0,0,0.08);">מצבי Ask/Code/Plan, דיף חזותי, אינטגרציית git, סביבות מקומיות ומרוחקות</td>
+</tr>
+<tr style="background:#faf9f6;">
+<td style="padding:8px 10px;font-weight:800;vertical-align:top;">כלים והרחבות</td>
+<td style="padding:8px 10px;vertical-align:top;">Connectors, Skills, Claude in Chrome</td>
+<td style="padding:8px 10px;vertical-align:top;">Connectors (מקומי ומרוחק), Skills, Claude in Chrome, Plugins, Computer Use</td>
+<td style="padding:8px 10px;vertical-align:top;">Connectors, Skills, Claude in Chrome, Plugins, Hooks</td>
+</tr>
+</tbody>
+</table></div>`,
   },
 
   {
