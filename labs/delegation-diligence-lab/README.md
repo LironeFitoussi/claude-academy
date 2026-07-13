@@ -31,9 +31,9 @@ Open a chat with Claude (or your AI tool of choice). Upload or paste in `attenda
 
 ### Step 2 — First attempt
 
-Try a first prompt close to what Rio actually used:
+Write your own first prompt — don't overthink it, write it the way you'd naturally ask a data analyst on your team. Rio's own first prompt named three things: what he wanted analyzed (participation patterns across the three months), what he wanted compared (attendance levels vs. employment success), and his specific hypothesis (whether *consistent* attendance predicts better job placement). Try covering those three angles in your own words.
 
-> "I'm sharing attendance data and employment outcome data from our job training program last quarter. Please analyze the participation patterns across the three months and show me the correlation between attendance levels and employment success. I'm particularly interested in understanding whether consistent attendance predicts better job placement outcomes."
+Send it as-is — no extra hints about program type or data quirks. The gaps you find in the response are exactly what step 3 is for.
 
 Write down (on paper or in a notes doc) what AI concludes: the monthly attendance trend, the overall correlation it finds, and anything it flags as notable.
 
